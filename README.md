@@ -23,9 +23,7 @@ Sou apaixonado por tecnologia, automação e desenvolvimento de soluções que f
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## 📈 Projeto em Destaque
-### [Orçamento Financeiro](https://github.com/israelsaz/orcamento-financeiro)
-Sistema web para controle financeiro pessoal, com upload de extratos bancários (CSV, Excel, PDF), gráficos e análise de receitas/despesas por mês.
+
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/israelsoaresazevedo)
